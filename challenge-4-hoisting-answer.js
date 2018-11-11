@@ -22,4 +22,3 @@ console.log(c);
 // Uncaught ReferenceError: c is not defined
 
 
-
